@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3626A7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+ELISANDRO+PEREIRA+DA+SILVA;I+am+41+years+old,;I+am+from+Paracuru-ce-Brasil,;I+am+graduated+in+ADS,;Analysis+and+Systems+Development+by+UNICESUMAR,;FULL+STACK+STUDENT+AT+ONEBITCODE,;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D0106&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+ELISANDRO+PEREIRA+DA+SILVA;I+am+41+years+old,;I+am+from+Paracuru-ce-Brasil,;I+am+graduated+in+ADS,;Analysis+and+Systems+Development+by+UNICESUMAR,;FULL+STACK+STUDENT+AT+ONEBITCODE,;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElisandroPS&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Elisandro Pereira Da silva github stats" /> 
@@ -14,7 +14,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/professor_avesso_ficag_ce/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>	
   
-<a href="https://codepen.io/E_Pereira/" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="https://codepen.io/E_Pereira/" target="_blank"><img width="124px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
   
 ### Main skills:
@@ -48,4 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ElisandroPS}/count.svg" /></p> 
 <br></div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3626A7&height=120&section=footer"/>
