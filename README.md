@@ -97,7 +97,9 @@ My goal is to integrate **technology, cybersecurity and investigative intelligen
 
 ### 👁 Visitors
 
-<img src="https://profile-counter.glitch.me/ElisandroPS/count.svg"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ElisandroPS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 </div>
 
