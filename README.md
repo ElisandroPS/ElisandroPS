@@ -31,12 +31,16 @@ My goal is to integrate **technology, cybersecurity and investigative intelligen
 
 ---
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ElisandroPS&theme=gotham&hide_border=true&area=true)
+## 📈 Contribution Graph
+
+[![Elisandro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElisandroPS&theme=gotham&hide_border=true&area=true)](https://github.com/ElisandroPS)
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElisandroPS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ElisandroPS&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </p>
 
 ---
