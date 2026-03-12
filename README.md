@@ -40,7 +40,7 @@ My goal is to integrate **technology, cybersecurity and investigative intelligen
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ElisandroPS&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ElisandroPS&theme=onedark"/>
 </p>
 
 ---
